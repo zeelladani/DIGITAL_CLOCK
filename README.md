@@ -1,7 +1,7 @@
 # DIGITAL_CLOCK
 this is the project of the digital clock. this repository includes the ARDUINO CODE, material required list, circuit diagrams, etc...
 
-how to connect all the components.
+how to connect all the components...
 
 
 Wiring the Components:
